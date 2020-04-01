@@ -12,7 +12,7 @@ This is free software and can be used for any application, you can even edit a c
   Plug in your Micro:Bit via the MicroUSB to USB-A connector.
   Open File Explorer (Windows 8.1+) or Windows Explorer (Windows Vista to Windows 7) or Finder (MacOS).
 # Step 3: Installing the OS
-  In your files app, drag the *.hex* file into the drive named 'Microbit'
+  In your files app, drag the *.hex* file into the drive named 'Microbit'.
   Unplug the Micro:Bit.
 # Step 4: Boot.
   Connect the Micro:Bit Battery pack and press the 'A' button.
